@@ -24,6 +24,12 @@ class Program
             new Cotxe("BIO23","Vil",2023,200,4),
         };
 
+        List<Cotxe> cotxes2=new List<Cotxe>
+        {
+            new Cotxe("Cord","Goldo",2018,24,2),
+            new Cotxe("Cotxe volador","future",2025,26,4)
+        };
+
         List<Camio> camions = new List<Camio>
         {
             new Camio("Actros", "Mercedes", 2021, 120, 18000),
